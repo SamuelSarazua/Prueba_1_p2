@@ -4,14 +4,3 @@ header {
     display: flex;
     align-items: center;
 }
-
-.cajita {
-    width: 400px;
-    height: 75px;
-    margin-left: 10px;
-    font-size: 50px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
